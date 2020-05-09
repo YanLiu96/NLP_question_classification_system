@@ -1,4 +1,4 @@
-# Coursework 1: Question classification description
+# NLP project: Question classification system description
 
 This readme contain 3 sections: Project Structure, Running of code, Description for each function.
 
